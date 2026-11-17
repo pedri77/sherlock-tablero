@@ -1,0 +1,58 @@
+{
+ "spec-01": {
+  "fichero": "Spec-01.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spec-01.jpg",
+  "licencia": "Public domain",
+  "w": 330,
+  "h": 259,
+  "pie": "SHE RAISED HER VEIL"
+ },
+ "spec-04": {
+  "fichero": "Spec-04.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spec-04.jpg",
+  "licencia": "Public domain",
+  "w": 250,
+  "h": 324,
+  "pie": "WHICH OF YOU IS HOLMES?"
+ },
+ "spec-06": {
+  "fichero": "Spec-06.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spec-06.jpg",
+  "licencia": "Public domain",
+  "w": 330,
+  "h": 227,
+  "pie": "WELL, LOOK AT THIS"
+ },
+ "spec-08": {
+  "fichero": "Spec-08.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spec-08.jpg",
+  "licencia": "Public domain",
+  "w": 330,
+  "h": 293,
+  "pie": "HOLMES LASHED FURIOUSLY"
+ },
+ "spec-09": {
+  "fichero": "Spec-09.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Spec-09.jpg",
+  "licencia": "Public domain",
+  "w": 330,
+  "h": 237,
+  "pie": "HE MADE NEITHER SOUND NOR MOTION"
+ },
+ "retrato": {
+  "fichero": "Sherlock Holmes Portrait Paget.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sherlock_Holmes_Portrait_Paget.jpg",
+  "licencia": "Public domain",
+  "w": 250,
+  "h": 326,
+  "pie": ""
+ },
+ "silver": {
+  "fichero": "The Adventure of Silver Blaze 01.jpg",
+  "pagina": "https://commons.wikimedia.org/wiki/File:The_Adventure_of_Silver_Blaze_01.jpg",
+  "licencia": "Public domain",
+  "w": 960,
+  "h": 722,
+  "pie": ""
+ }
+}

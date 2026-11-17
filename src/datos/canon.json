@@ -1,0 +1,970 @@
+{
+ "casos": [
+  {
+   "id": "stud",
+   "titulo": "A Study in Scarlet",
+   "es": "Estudio en escarlata",
+   "libro": "Estudio en escarlata",
+   "anio": 1887,
+   "narrador": "W",
+   "palabras": 43699,
+   "cuenta": {
+    "elemental": 1,
+    "queridoWatson": 0,
+    "watson": 7,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "sign",
+   "titulo": "The Sign of the Four",
+   "es": "El signo de los cuatro",
+   "libro": "El signo de los cuatro",
+   "anio": 1890,
+   "narrador": "W",
+   "palabras": 43618,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 24,
+    "pipa": 14
+   }
+  },
+  {
+   "id": "scan",
+   "titulo": "A Scandal in Bohemia",
+   "es": "Escándalo en Bohemia",
+   "libro": "Las aventuras",
+   "anio": 1891,
+   "narrador": "W",
+   "palabras": 8626,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 6,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "redh",
+   "titulo": "The Red-Headed League",
+   "es": "La liga de los pelirrojos",
+   "libro": "Las aventuras",
+   "anio": 1891,
+   "narrador": "W",
+   "palabras": 9260,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 10,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "iden",
+   "titulo": "A Case of Identity",
+   "es": "Un caso de identidad",
+   "libro": "Las aventuras",
+   "anio": 1891,
+   "narrador": "W",
+   "palabras": 7029,
+   "cuenta": {
+    "elemental": 1,
+    "queridoWatson": 0,
+    "watson": 4,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "bosc",
+   "titulo": "The Boscombe Valley Mystery",
+   "es": "El misterio del valle de Boscombe",
+   "libro": "Las aventuras",
+   "anio": 1891,
+   "narrador": "W",
+   "palabras": 9709,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 4,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "five",
+   "titulo": "The Five Orange Pips",
+   "es": "Las cinco semillas de naranja",
+   "libro": "Las aventuras",
+   "anio": 1891,
+   "narrador": "W",
+   "palabras": 7415,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 4,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "twis",
+   "titulo": "The Man with the Twisted Lip",
+   "es": "El hombre del labio retorcido",
+   "libro": "Las aventuras",
+   "anio": 1891,
+   "narrador": "W",
+   "palabras": 9287,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 16,
+    "pipa": 5
+   }
+  },
+  {
+   "id": "blue",
+   "titulo": "The Blue Carbuncle",
+   "es": "El carbunclo azul",
+   "libro": "Las aventuras",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 7914,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 9,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "spec",
+   "titulo": "The Speckled Band",
+   "es": "La banda de lunares",
+   "libro": "Las aventuras",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 9902,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 12,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "engr",
+   "titulo": "The Engineer's Thumb",
+   "es": "El pulgar del ingeniero",
+   "libro": "Las aventuras",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 8438,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 0,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "nobl",
+   "titulo": "The Noble Bachelor",
+   "es": "El aristócrata solterón",
+   "libro": "Las aventuras",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 8191,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 7,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "bery",
+   "titulo": "The Beryl Coronet",
+   "es": "La diadema de berilos",
+   "libro": "Las aventuras",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 9800,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 2,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "copp",
+   "titulo": "The Copper Beeches",
+   "es": "Las hayas cobrizas",
+   "libro": "Las aventuras",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 10073,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 7,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "silv",
+   "titulo": "Silver Blaze",
+   "es": "Estrella de plata",
+   "libro": "Las memorias",
+   "anio": 1892,
+   "narrador": "W",
+   "palabras": 9669,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 13,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "card",
+   "titulo": "The Cardboard Box",
+   "es": "La caja de cartón",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 8768,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 9,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "yell",
+   "titulo": "The Yellow Face",
+   "es": "La cara amarilla",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7597,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 4,
+    "pipa": 12
+   }
+  },
+  {
+   "id": "stoc",
+   "titulo": "The Stockbroker's Clerk",
+   "es": "El oficinista del corredor de bolsa",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 6904,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 12,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "glor",
+   "titulo": "The Gloria Scott",
+   "es": "El Gloria Scott",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7995,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 7,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "musg",
+   "titulo": "The Musgrave Ritual",
+   "es": "El ritual de los Musgrave",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7708,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 13,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "reig",
+   "titulo": "The Reigate Squire",
+   "es": "Los hacendados de Reigate",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7238,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 9,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "croo",
+   "titulo": "The Crooked Man",
+   "es": "El jorobado",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7176,
+   "cuenta": {
+    "elemental": 1,
+    "queridoWatson": 2,
+    "watson": 15,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "resi",
+   "titulo": "The Resident Patient",
+   "es": "El paciente interno",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 6543,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 4,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "gree",
+   "titulo": "The Greek Interpreter",
+   "es": "El intérprete griego",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7115,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 3,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "nava",
+   "titulo": "The Naval Treaty",
+   "es": "El tratado naval",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 12754,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 18,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "fina",
+   "titulo": "The Final Problem",
+   "es": "El problema final",
+   "libro": "Las memorias",
+   "anio": 1893,
+   "narrador": "W",
+   "palabras": 7238,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 7,
+    "watson": 22,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "houn",
+   "titulo": "The Hound of the Baskervilles",
+   "es": "El sabueso de los Baskerville",
+   "libro": "El sabueso de los Baskerville",
+   "anio": 1901,
+   "narrador": "W",
+   "palabras": 59529,
+   "cuenta": {
+    "elemental": 2,
+    "queridoWatson": 10,
+    "watson": 114,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "empt",
+   "titulo": "The Empty House",
+   "es": "La casa vacía",
+   "libro": "El regreso",
+   "anio": 1903,
+   "narrador": "W",
+   "palabras": 8761,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 9,
+    "watson": 22,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "norw",
+   "titulo": "The Norwood Builder",
+   "es": "El constructor de Norwood",
+   "libro": "El regreso",
+   "anio": 1903,
+   "narrador": "W",
+   "palabras": 9329,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 3,
+    "watson": 23,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "danc",
+   "titulo": "The Dancing Men",
+   "es": "Los bailarines",
+   "libro": "El regreso",
+   "anio": 1903,
+   "narrador": "W",
+   "palabras": 9735,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 13,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "soli",
+   "titulo": "The Solitary Cyclist",
+   "es": "La ciclista solitaria",
+   "libro": "El regreso",
+   "anio": 1903,
+   "narrador": "W",
+   "palabras": 7898,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 14,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "prio",
+   "titulo": "The Priory School",
+   "es": "El colegio Priory",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 11526,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 28,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "blac",
+   "titulo": "Black Peter",
+   "es": "Peter el Negro",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 8194,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 11,
+    "pipa": 4
+   }
+  },
+  {
+   "id": "chas",
+   "titulo": "Charles Augustus Milverton",
+   "es": "Charles Augustus Milverton",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 6780,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 17,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "sixn",
+   "titulo": "The Six Napoleons",
+   "es": "Los seis Napoleones",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 8391,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 14,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "3stu",
+   "titulo": "The Three Students",
+   "es": "Los tres estudiantes",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 6508,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 11,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "gold",
+   "titulo": "The Golden Pince-Nez",
+   "es": "Los quevedos de oro",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 8999,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 6,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "miss",
+   "titulo": "The Missing Three-Quarter",
+   "es": "El tres cuartos desaparecido",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 8081,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 5,
+    "watson": 16,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "abbe",
+   "titulo": "The Abbey Grange",
+   "es": "La granja Abbey",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 9232,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 20,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "seco",
+   "titulo": "The Second Stain",
+   "es": "La segunda mancha",
+   "libro": "El regreso",
+   "anio": 1904,
+   "narrador": "W",
+   "palabras": 9737,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 3,
+    "watson": 16,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "wist",
+   "titulo": "Wisteria Lodge",
+   "es": "Wisteria Lodge",
+   "libro": "Su último saludo",
+   "anio": 1908,
+   "narrador": "W",
+   "palabras": 11495,
+   "cuenta": {
+    "elemental": 1,
+    "queridoWatson": 5,
+    "watson": 20,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "bruc",
+   "titulo": "The Bruce-Partington Plans",
+   "es": "Los planos del Bruce-Partington",
+   "libro": "Su último saludo",
+   "anio": 1908,
+   "narrador": "W",
+   "palabras": 10771,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 24,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "devi",
+   "titulo": "The Devil's Foot",
+   "es": "El pie del diablo",
+   "libro": "Su último saludo",
+   "anio": 1910,
+   "narrador": "W",
+   "palabras": 10064,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 3,
+    "watson": 26,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "redc",
+   "titulo": "The Red Circle",
+   "es": "El círculo rojo",
+   "libro": "Su último saludo",
+   "anio": 1911,
+   "narrador": "W",
+   "palabras": 7383,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 28,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "lady",
+   "titulo": "Lady Frances Carfax",
+   "es": "La desaparición de lady Frances Carfax",
+   "libro": "Su último saludo",
+   "anio": 1911,
+   "narrador": "W",
+   "palabras": 7747,
+   "cuenta": {
+    "elemental": 1,
+    "queridoWatson": 5,
+    "watson": 26,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "dyin",
+   "titulo": "The Dying Detective",
+   "es": "El detective moribundo",
+   "libro": "Su último saludo",
+   "anio": 1913,
+   "narrador": "W",
+   "palabras": 5832,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 46,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "vall",
+   "titulo": "The Valley of Fear",
+   "es": "El valle del miedo",
+   "libro": "El valle del miedo",
+   "anio": 1914,
+   "narrador": "W",
+   "palabras": 58094,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 5,
+    "watson": 56,
+    "pipa": 5
+   }
+  },
+  {
+   "id": "last",
+   "titulo": "His Last Bow",
+   "es": "Su último saludo",
+   "libro": "Su último saludo",
+   "anio": 1917,
+   "narrador": "T",
+   "palabras": 6134,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 17,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "maza",
+   "titulo": "The Mazarin Stone",
+   "es": "La piedra de Mazarino",
+   "libro": "El archivo",
+   "anio": 1921,
+   "narrador": "T",
+   "palabras": 5722,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 24,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "thor",
+   "titulo": "Thor Bridge",
+   "es": "El problema del puente de Thor",
+   "libro": "El archivo",
+   "anio": 1922,
+   "narrador": "W",
+   "palabras": 9678,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 27,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "cree",
+   "titulo": "The Creeping Man",
+   "es": "El hombre que trepaba",
+   "libro": "El archivo",
+   "anio": 1923,
+   "narrador": "W",
+   "palabras": 7736,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 29,
+    "pipa": 4
+   }
+  },
+  {
+   "id": "suss",
+   "titulo": "The Sussex Vampire",
+   "es": "El vampiro de Sussex",
+   "libro": "El archivo",
+   "anio": 1924,
+   "narrador": "W",
+   "palabras": 6004,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 17,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "3gar",
+   "titulo": "The Three Garridebs",
+   "es": "Los tres Garrideb",
+   "libro": "El archivo",
+   "anio": 1924,
+   "narrador": "W",
+   "palabras": 6249,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 1,
+    "watson": 22,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "illu",
+   "titulo": "The Illustrious Client",
+   "es": "El cliente ilustre",
+   "libro": "El archivo",
+   "anio": 1924,
+   "narrador": "W",
+   "palabras": 9879,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 2,
+    "watson": 28,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "3gab",
+   "titulo": "The Three Gables",
+   "es": "Los tres gabletes",
+   "libro": "El archivo",
+   "anio": 1926,
+   "narrador": "W",
+   "palabras": 6117,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 10,
+    "pipa": 3
+   }
+  },
+  {
+   "id": "blan",
+   "titulo": "The Blanched Soldier",
+   "es": "El soldado de la piel decolorada",
+   "libro": "El archivo",
+   "anio": 1926,
+   "narrador": "H",
+   "palabras": 7805,
+   "cuenta": {
+    "elemental": 1,
+    "queridoWatson": 0,
+    "watson": 9,
+    "pipa": 2
+   }
+  },
+  {
+   "id": "lion",
+   "titulo": "The Lion's Mane",
+   "es": "La melena del león",
+   "libro": "El archivo",
+   "anio": 1926,
+   "narrador": "H",
+   "palabras": 7256,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 2,
+    "pipa": 0
+   }
+  },
+  {
+   "id": "reti",
+   "titulo": "The Retired Colourman",
+   "es": "El fabricante de colores retirado",
+   "libro": "El archivo",
+   "anio": 1926,
+   "narrador": "W",
+   "palabras": 5603,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 3,
+    "watson": 28,
+    "pipa": 4
+   }
+  },
+  {
+   "id": "veil",
+   "titulo": "The Veiled Lodger",
+   "es": "La inquilina del velo",
+   "libro": "El archivo",
+   "anio": 1927,
+   "narrador": "W",
+   "palabras": 4520,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 8,
+    "pipa": 1
+   }
+  },
+  {
+   "id": "shos",
+   "titulo": "Shoscombe Old Place",
+   "es": "Shoscombe Old Place",
+   "libro": "El archivo",
+   "anio": 1927,
+   "narrador": "W",
+   "palabras": 6313,
+   "cuenta": {
+    "elemental": 0,
+    "queridoWatson": 0,
+    "watson": 19,
+    "pipa": 0
+   }
+  }
+ ],
+ "palabras": 662768,
+ "totales": {
+  "elementalQuerido": 0,
+  "elemental": 8,
+  "queridoWatson": 92,
+  "watson": 1032,
+  "deerstalker": 0,
+  "pipa": 109,
+  "lupa": 40,
+  "violin": 22,
+  "cocaina": 9,
+  "deduccion": 89,
+  "imposible": 2
+ },
+ "contextos": {
+  "elemental": [
+   {
+    "caso": "stud",
+    "antes": "t the greatest difficulties, let the enquirer begin by mastering more ",
+    "frase": "elementary",
+    "despues": " problems. Let him, on meeting a fellow-mortal, learn at a glance to d"
+   },
+   {
+    "caso": "iden",
+    "antes": " not remain clear upon the finger. All this is amusing, though rather ",
+    "frase": "elementary",
+    "despues": ", but I must go back to business, Watson. Would you mind reading me th"
+   },
+   {
+    "caso": "croo",
+    "antes": "at present busy enough to justify the hansom.” “Excellent!” I cried. “",
+    "frase": "Elementary",
+    "despues": ",” said he. “It is one of those instances where the reasoner can produ"
+   },
+   {
+    "caso": "houn",
+    "antes": "dow, he looked over it again with a convex lens. “Interesting, though ",
+    "frase": "elementary",
+    "despues": ",” said he as he returned to his favourite corner of the settee. “Ther"
+   },
+   {
+    "caso": "houn",
+    "antes": "ur negro and your Esquimau. The detection of types is one of the most ",
+    "frase": "elementary",
+    "despues": " branches of knowledge to the special expert in crime, though I confes"
+   },
+   {
+    "caso": "wist",
+    "antes": " the catkins on the hazels once again. With a spud, a tin box, and an ",
+    "frase": "elementary",
+    "despues": " book on botany, there are instructive days to be spent.” He prowled a"
+   },
+   {
+    "caso": "lady",
+    "antes": "son,” said Holmes with a mischievous twinkle. “It belongs to the same ",
+    "frase": "elementary",
+    "despues": " class of deduction which I should illustrate if I were to ask you who"
+   },
+   {
+    "caso": "blan",
+    "antes": "ted choice of alternatives must get to the root of the matter. Still, ",
+    "frase": "elementary",
+    "despues": " as it was, there were points of interest and novelty about it which m"
+   }
+  ]
+ }
+}
